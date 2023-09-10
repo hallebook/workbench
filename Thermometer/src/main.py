@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Temperature converstion program used to demonstrate:
+Temperature conversion program used to demonstrate:
 
 * interactive programs
 * data types
