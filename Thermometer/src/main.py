@@ -24,7 +24,9 @@ def main():
     temp_c = (5/9) * (int(temp_f) - 32)
 
     # Report result
-    print("The temperature in Celsius is: ", temp_c)
+    print(f"The temperature in Celsius is: , {temp_c:.{1}f}")
+
+    # print (2**3)
 
 if __name__ == "__main__":
     main()
